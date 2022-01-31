@@ -17,8 +17,8 @@
 /**
  * This file contains form for bulk changing user enrolments.
  *
- * @package    enrol_manual
- * @copyright  2011 Sam Hemelryk
+ * @package    enrol_spreadsheet
+ * @author     infinitail
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

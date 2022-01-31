@@ -19,7 +19,7 @@
  * or edits current instance.
  *
  * @package    enrol_spreadsheet
- * @author     Mitsuru Udagawa
+ * @author     infinitail
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

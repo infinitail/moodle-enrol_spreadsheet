@@ -15,10 +15,9 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * UNVERSAL PASSPORT CSV file enrolment plugin version specification.
+ * Spreadsheet enrolment plugin version specification.
  *
  * @package    enrol_spreadsheet
- * @copyright  2021 infinitail
  * @author     infinitail
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */

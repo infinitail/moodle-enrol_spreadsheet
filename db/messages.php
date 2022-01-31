@@ -18,7 +18,6 @@
  * Defines message providers (types of message sent) for the spreadsheet enrolment plugin.
  *
  * @package    enrol_spreadsheet
- * @copyright  2021 infinitail
  * @author     infinitail
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
